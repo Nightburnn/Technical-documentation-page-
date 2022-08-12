@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main () {
+
+int testing = 8;
+
+ double testingDouble = 10.8;
+ 
+ char testingChar = 'z';
+ 
+ printf("Testing = %d", testing);
+ 
+ printf("Double = %lf", testingDouble);
+ 
+ printf("Char = %c", testingChar);
+ 
+ return 0;
+ 
+ }
